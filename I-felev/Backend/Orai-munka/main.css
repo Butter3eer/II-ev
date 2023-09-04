@@ -9,3 +9,9 @@ thead tr {
 #jelszo {
     background-color:olive;
 }
+
+h1 {
+    & em {
+        color: olivedrab;
+    }
+}
