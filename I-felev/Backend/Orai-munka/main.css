@@ -1,3 +1,11 @@
 thead tr {
     background-color: beige;
 }
+
+.error {
+    color: red;
+}
+
+#jelszo {
+    background-color:olive;
+}
