@@ -1,0 +1,8 @@
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\bin\Debug\1Ora.exe.config
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\bin\Debug\1Ora.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\bin\Debug\1Ora.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\obj\Debug\1Ora.csproj.AssemblyReference.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\obj\Debug\1Ora.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\obj\Debug\1Ora.csproj.CoreCompileInputs.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\obj\Debug\1Ora.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\1Ora\1Ora\obj\Debug\1Ora.pdb
