@@ -1,0 +1,8 @@
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\obj\Debug\Kalandjatek-2023-09-07.csproj.AssemblyReference.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\obj\Debug\Kalandjatek-2023-09-07.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\obj\Debug\Kalandjatek-2023-09-07.csproj.CoreCompileInputs.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\bin\Debug\Kalandjatek-2023-09-07.exe.config
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\bin\Debug\Kalandjatek-2023-09-07.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\bin\Debug\Kalandjatek-2023-09-07.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\obj\Debug\Kalandjatek-2023-09-07.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\Kalandjatek-2023-09-07\Kalandjatek-2023-09-07\obj\Debug\Kalandjatek-2023-09-07.pdb
