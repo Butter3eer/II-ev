@@ -1,0 +1,12 @@
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\bin\Debug\LakatlanSziget.exe.config
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\bin\Debug\LakatlanSziget.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\bin\Debug\LakatlanSziget.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.csproj.AssemblyReference.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.csproj.CoreCompileInputs.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\bin\Debug\LakatlanSziget.exe.manifest
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\bin\Debug\LakatlanSziget.application
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.exe.manifest
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Kalandjáték\LakatlanSziget-2023-09-07\LakatlanSziget\LakatlanSziget\obj\Debug\LakatlanSziget.application
