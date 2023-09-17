@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{346E6FCE-5DE4-486D-9244-1DFB38D2FF86}</ProjectGuid>
+    <ProjectGuid>{4EC4B3E7-AACD-462C-A291-C739DA5EA136}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Pontok</RootNamespace>
-    <AssemblyName>Pontok</AssemblyName>
+    <RootNamespace>Osztalykapcsolatok</RootNamespace>
+    <AssemblyName>Osztalykapcsolatok</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
