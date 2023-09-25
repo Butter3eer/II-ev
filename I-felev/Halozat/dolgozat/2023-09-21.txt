@@ -176,6 +176,7 @@ no sh
 exit
 router ospf 1
 router-id 1.1.1.1
+area 0 authentication message-digest
 network 192.168.7.0 0.0.0.255 area 0
 network 192.168.9.0 0.0.0.255 area 0
 network 192.168.20.32 0.0.0.31 area 0
@@ -202,6 +203,7 @@ no sh
 exit
 router ospf 1
 router-id 2.2.2.2
+area 0 authentication message-digest
 network 192.168.7.0 0.0.0.255 area 0
 network 192.168.8.0 0.0.0.255 area 0
 network 192.168.20.0 0.0.0.31 area 0
@@ -228,6 +230,7 @@ no sh
 exit
 router ospf 1
 router-id 3.3.3.3
+area 0 authentication message-digest
 network 192.168.9.0 0.0.0.255 area 0
 network 192.168.8.0 0.0.0.255 area 0
 network 192.168.20.64 0.0.0.15 area 0
