@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css">
+    <title>Vite App</title>
+  </head>
+  <body>
+    <form id="post-form">
+
+      <label>
+        Add meg a felhasználóneved: <br>
+        <input type="text" id="felNev"> <br>
+      </label>
+
+      <label>
+        Add meg a jelszavad: <br>
+        <input type="password" id="jelszo"> <br>
+      </label>
+      <textarea id="tartalom"></textarea>
+      <p id="karakterek">0-/-50</p>
+      <button type="submit" id="gomb">Feldolgoz!</button>
+    </form>
+
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>

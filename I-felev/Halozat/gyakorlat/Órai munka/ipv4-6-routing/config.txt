@@ -1,0 +1,151 @@
+R1
+
+en
+conf t
+hostname R1
+ipv6 unicast-routing
+ipv6 router rip RIPR1
+int g0/0
+ip add 192.168.0.1 255.255.255.224
+no sh
+int g0/1
+ip add 192.168.1.1 255.255.255.0
+no sh
+int g0/2
+ip add 192.168.3.1 255.255.255.0
+no sh
+int s0/0/0
+ip add 10.0.0.1 255.255.255.252
+ipv6 add 2023:9:28:e::1/64
+ipv6 add FE80::1 link-local
+ipv6 rip RIPR1 enable
+no sh
+exit
+router rip
+version 2
+network 10.0.0.0
+network 192.168.0.0
+network 192.168.1.0
+network 192.168.3.0
+end
+copy ru st
+
+R2
+
+en
+conf t
+hostname R2
+ipv6 unicast-routing
+int g0/0
+ip add 192.168.0.33 255.255.255.224
+no sh
+int g0/1
+ip add 192.168.1.2 255.255.255.0
+no sh
+int g0/2
+ip add 192.168.2.1 255.255.255.0
+no sh
+exit
+router rip
+version 2
+network 192.168.0.0
+network 192.168.1.0
+network 192.168.2.0
+end
+copy ru st
+
+R3
+
+en
+conf t
+hostname R3
+ipv6 unicast-routing
+int g0/0
+ip add 192.168.0.65 255.255.255.224
+no sh
+int g0/1
+ip add 192.168.2.2 255.255.255.0
+no sh
+int g0/2
+ip add 192.168.3.2 255.255.255.0
+no sh
+exit
+router rip
+version 2
+network 192.168.0.0
+network 192.168.2.0
+network 192.168.3.0
+end
+copy ru st
+
+R4
+
+en
+conf t
+hostname R4
+ipv6 unicast-routing
+ipv6 router rip RIPR4
+int g0/0
+ipv6 add 2023:9:28:a::1/66
+ipv6 rip RIPR4 enable
+no sh
+int g0/1
+ipv6 add 2023:9:28:b::1/64
+ipv6 rip RIPR4 enable
+no sh
+int g0/2
+ipv6 add 2023:9:28:d::1/64
+ipv6 rip RIPR4 enable
+no sh
+int s0/0/0
+ip add 10.0.0.2 255.255.255.252
+ipv6 add 2023:9:28:e::2/64
+ipv6 rip RIPR4 enable
+ipv6 add FE80::1 link-local
+no sh
+end
+copy ru st
+
+R5
+
+en
+conf t
+hostname R5
+ipv6 unicast-routing
+ipv6 router rip RIPR5
+int g0/0
+ipv6 add 2023:9:28:a:4000::1/66
+ipv6 rip RIPR5 enable
+no sh
+int g0/1
+ipv6 add 2023:9:28:b::2/64
+ipv6 rip RIPR5 enable
+no sh
+int g0/2
+ipv6 add 2023:9:28:c::1/64
+ipv6 rip RIPR5 enable
+no sh
+end
+copy ru st
+
+R6
+
+en
+conf t
+hostname R6
+ipv6 unicast-routing
+ipv6 router rip RIPR6
+int g0/0
+ipv6 add 2023:9:28:a:8000::1/66
+ipv6 rip RIPR6 enable
+no sh
+int g0/1
+ipv6 add 2023:9:28:c::2/64
+ipv6 rip RIPR6 enable
+no sh
+int g0/2
+ipv6 add 2023:9:28:d::2/64
+ipv6 rip RIPR6 enable
+no sh
+end
+copy ru st

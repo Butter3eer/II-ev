@@ -6,3 +6,11 @@ E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\
 E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Pirates\Pirates\bin\Debug\Pirates.pdb
 E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Pirates\Pirates\obj\Debug\Pirates.exe
 E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\Órai munka\Pirates\Pirates\obj\Debug\Pirates.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\bin\Debug\Pirates.exe.config
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\bin\Debug\Pirates.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\bin\Debug\Pirates.pdb
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\obj\Debug\Pirates.csproj.AssemblyReference.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\obj\Debug\Pirates.csproj.SuggestedBindingRedirects.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\obj\Debug\Pirates.csproj.CoreCompileInputs.cache
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\obj\Debug\Pirates.exe
+E:\OneDrive - BMSZC Petrik Lajos Két Tanítási Nyelvű Technikum\STUDY\Petrik\II-ev\I-felev\C#\oraiMunka\Pirates\Pirates\obj\Debug\Pirates.pdb
