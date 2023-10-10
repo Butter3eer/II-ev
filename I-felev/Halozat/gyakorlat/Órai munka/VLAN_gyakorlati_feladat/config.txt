@@ -13,6 +13,10 @@ ip add 192.168.20.1 255.255.255.0
 ipv6 add 2001:db8:acad:1::10/64
 ipv6 add FE80::1 link-local
 no sh
+exit
+router rip
+network 192.168.10.0
+network 192.168.20.0
 end
 copy ru st
 
@@ -30,9 +34,11 @@ no sh
 int g0/0
 no sh
 int g0/0.10
+encapsulation dot1q 10
 ip add 192.168.30.1 255.255.255.128
 no sh
 int g0/0.20
+encapsulation dot1q 20
 ip add 192.168.30.129 255.255.255.128
 no sh
 exit
@@ -45,6 +51,11 @@ ip dhcp pool LAN20
 network 192.168.30.128 255.255.255.128
 def 192.168.30.129
 dns-server 209.165.201.10
+exit
+router rip
+network 192.168.10.0
+network 192.168.10.4
+network 192.168.30.0
 end
 copy ru st
 
@@ -62,6 +73,11 @@ no sh
 int g0/0
 ip add 192.168.40.1 255.255.255.0
 no sh
+exit
+router rip
+network 192.168.10.4
+network 192.168.40.0
+network 209.165.200.0
 end
 copy ru st
 
@@ -71,13 +87,9 @@ en
 conf t
 hostname BS2_2
 vlan 10
-int vlan 10
-ip add 192.168.30.2 255.255.255.128
 no sh
 exit
 vlan 20
-int vlan 20
-ip add 192.168.30.130 255.255.255.128
 no sh
 exit
 int range f0/1-12
@@ -109,5 +121,9 @@ no sh
 int g0/1
 ip add 209.165.201.19 255.255.255.248
 no sh
+exit
+router rip
+network 209.165.200.0
+network 209.165.201.0
 end
 copy ru st
